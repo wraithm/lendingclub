@@ -1,0 +1,17 @@
+.*.swp
+dist
+.cabal-sandbox
+cabal.sandbox.config
+.ghci
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+log
+
+# Project specifics
+codex.tags
+tags
+
+*.cfg
