@@ -1,5 +1,5 @@
 name:                lendingclub
-version:             0.1.0.0
+version:             0.1.1
 synopsis:            Bindings for the LendingClub marketplace API
 description:         Bindings for the LendingClub marketplace API
 homepage:            https://www.lendingclub.com/developers/lc-api.action
