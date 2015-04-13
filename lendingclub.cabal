@@ -3,6 +3,7 @@ version:             0.1.1
 synopsis:            Bindings for the LendingClub marketplace API
 description:         Bindings for the LendingClub marketplace API
 homepage:            https://www.lendingclub.com/developers/lc-api.action
+bug-reports:         https://github.com/WraithM/lendingclub/issues
 license:             BSD3
 license-file:        LICENSE
 author:              Matthew Wraith
